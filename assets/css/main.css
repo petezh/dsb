@@ -1621,7 +1621,7 @@ input, select, textarea {
 			align-items: center;
 		}
 
-		#main nav ul, {
+		#main nav ul {
 			border-color: white;
 		}
 
